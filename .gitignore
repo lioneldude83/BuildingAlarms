@@ -53,14 +53,6 @@ playground.xcworkspace
 .swiftpm/
 
 # =========================
-# CocoaPods
-# =========================
-
-# Pods/
-# *.xcworkspace
-Podfile.lock
-
-# =========================
 # Carthage
 # =========================
 
