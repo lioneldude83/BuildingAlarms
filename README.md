@@ -185,10 +185,7 @@ deinit {
 
 ## Known Limitations
 
-- AlarmKit is currently in beta and APIs may change
-- Live Activities require a physical device for full testing
-- Dynamic Island features require iPhone 14 Pro or later
-- Timer accuracy depends on system resources and background limitations
+- AlarmKit is still new, APIs may change
 
 ## Known Issues
 
